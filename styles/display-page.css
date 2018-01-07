@@ -1,0 +1,57 @@
+
+
+div {
+	font-size: 0;
+}
+
+.c1 {
+	background-color: green;
+}
+
+
+.c2 {
+	background-color: blue;
+}
+
+.c3 {
+	background-color: grey;
+}
+
+.c4 {
+	background-color: black;
+}
+
+.c5 {
+	background-color: #F6A915;
+}
+
+.inner1 {
+	display: inline-block;
+	height: 300px;
+	width: 33.33%;
+	font-size: 0;
+	border: 1px solid black;
+	margin-top: 0px;
+	margin-bottom: auto;
+
+}
+
+.inner {
+	display: inline-block;
+	border: 1px solid black;
+	margin-bottom: 0px;
+	height: 200px;
+	width: 400px;
+	margin-top: auto;
+	
+}
+ 
+.new {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.all {
+	margin-top: 90px;  
+}
